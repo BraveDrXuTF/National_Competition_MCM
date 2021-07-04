@@ -1,0 +1,2 @@
+# National_Competition_MCM
+这是2020年的全国大学生数学建模A题代码，我在其中负责算法、建模
